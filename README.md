@@ -27,6 +27,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Local-first code intelligence graph (MCP/CLI) that builds a persistent structural map of your codebase to drastically reduce AI coding tool token usage. |
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A configured `CLAUDE.md` and cursor rules template derived from Andrej Karpathy's findings to guide AI coding tools toward simpler, surgical solutions. |
 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Open-source, local AI gateway routing requests to 268+ providers (50+ free) with automatic quota fallback and advanced token compression. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | A persistent memory compression system for coding agents that captures session histories and injects compressed semantic context into future sessions. |
 
 ## 🎨 Design & Productivity
 | Repository | Description |
