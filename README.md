@@ -13,6 +13,12 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | :--- | :--- |
 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | A platform offering free domains (like `.us.kg` and `.dpdns.org`) and DNS integration for personal websites and open-source projects. |
 
+## ⚙️ Backend & APIs
+
+| Repository | Description |
+| :--- | :--- |
+| [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) | A massive, collaborative index of free public APIs categorized by topic, auth requirements, and CORS capabilities. |
+
 ## 🧠 AI & Data Science
 
 | Repository | Description |
