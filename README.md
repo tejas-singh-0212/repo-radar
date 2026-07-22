@@ -43,6 +43,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | An AI agent/MCP skill that forces coding models to write ultra-minimal, YAGNI-focused code and audit repositories for bloat. |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | An open-source, local-first Claude Design alternative for generating prototypes, landing pages, slides, and videos via AI. |
 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | AI-powered CLI coding assistant that lets you edit entire codebases and run terminal commands using natural language. |
+| [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | A collaborative, agentic AI coding harness by Xiaomi featuring auto-parallelizing git worktrees, deep research workflows, and fact-checking jurors. |
 
 ---
 
