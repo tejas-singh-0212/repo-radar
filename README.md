@@ -20,6 +20,11 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) | Production-ready SDK toolkit to run AI models locally and on-device (iOS, Android, Web, React Native, Flutter). |
 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Local-first code intelligence graph (MCP/CLI) that builds a persistent structural map of your codebase to drastically reduce AI coding tool token usage. |
 
+## 🎨 Design & Productivity
+| Repository | Description |
+|:---| :--- |
+| [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A custom patch and configuration for GIMP that mimics Adobe Photoshop's layout, keyboard shortcuts, and interface. |
+
 ## 🛠️ Developer Utilities
 
 | Repository | Description |
