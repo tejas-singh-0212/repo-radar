@@ -1,1 +1,37 @@
-# repo-radar
+# Repo-radar
+A minimalist, tabular index of exceptionally useful GitHub repositories.
+
+## 📁 Web Development
+
+| Repository | Description |
+| :--- | :--- |
+| [reticlehq/reticle](https://github.com/reticlehq/reticle) | An instrumentation toolkit and MCP server giving AI agents real-time, runtime perception of web application state, DOM, and network logs. |
+
+## 🚀 DevOps & Infrastructure
+
+| Repository | Description |
+| :--- | :--- |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | A platform offering free domains (like `.us.kg` and `.dpdns.org`) and DNS integration for personal websites and open-source projects. |
+
+## 🧠 AI & Data Science
+
+| Repository | Description |
+| :--- | :--- |
+| [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) | Production-ready SDK toolkit to run AI models locally and on-device (iOS, Android, Web, React Native, Flutter). |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Local-first code intelligence graph (MCP/CLI) that builds a persistent structural map of your codebase to drastically reduce AI coding tool token usage. |
+
+## 🛠️ Developer Utilities
+
+| Repository | Description |
+| :--- | :--- |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | Free, open-source AI coding agent with a terminal TUI/Desktop app supporting 75+ LLM providers, git snapshots, and compiler feedback loops. |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Lightweight proxy server to run Anthropic's Claude Code CLI using free API providers (NVIDIA NIM, OpenRouter) or local LLMs. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | An AI agent/MCP skill that forces coding models to write ultra-minimal, YAGNI-focused code and audit repositories for bloat. |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | An open-source, local-first Claude Design alternative for generating prototypes, landing pages, slides, and videos via AI. |
+| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | AI-powered CLI coding assistant that lets you edit entire codebases and run terminal commands using natural language. |
+
+---
+
+## Contribute
+
+Have an essential repository to share? Please open a pull request.
