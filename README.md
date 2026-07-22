@@ -32,6 +32,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | Repository | Description |
 |:---| :--- |
 | [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A custom patch and configuration for GIMP that mimics Adobe Photoshop's layout, keyboard shortcuts, and interface. |
+| [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) | An open-source ElevenLabs alternative for local voice cloning, video dubbing, dictation, and cinematic audiobook creation. |
 
 ## 🛠️ Developer Utilities
 
