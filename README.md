@@ -28,6 +28,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A configured `CLAUDE.md` and cursor rules template derived from Andrej Karpathy's findings to guide AI coding tools toward simpler, surgical solutions. |
 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Open-source, local AI gateway routing requests to 268+ providers (50+ free) with automatic quota fallback and advanced token compression. |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | A persistent memory compression system for coding agents that captures session histories and injects compressed semantic context into future sessions. |
+| [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Baidu's state-of-the-art OCR engine capable of transcribing entire books in a single pass using Reference Sliding Window Attention (R-SWA). |
 
 ## 🎨 Design & Productivity
 | Repository | Description |
