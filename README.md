@@ -36,6 +36,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A custom patch and configuration for GIMP that mimics Adobe Photoshop's layout, keyboard shortcuts, and interface. |
 | [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) | An open-source ElevenLabs alternative for local voice cloning, video dubbing, dictation, and cinematic audiobook creation. |
 | [opencut-app/opencut](https://github.com/opencut-app/opencut) | A privacy-first, open-source CapCut alternative and video editor that runs entirely in-browser using WebAssembly, Web Audio, and OPFS. |
+| [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) | An open-source, browser-first text-to-CAD web application that generates parametric, editable 3D models (OpenSCAD/STL) from natural language. |
 
 ## 🛠️ Developer Utilities
 
