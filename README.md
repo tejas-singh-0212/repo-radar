@@ -6,12 +6,14 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | Repository | Description |
 | :--- | :--- |
 | [reticlehq/reticle](https://github.com/reticlehq/reticle) | An instrumentation toolkit and MCP server giving AI agents real-time, runtime perception of web application state, DOM, and network logs. |
+| [every-app/open-seo](https://github.com/every-app/open-seo) | An open-source alternative to Semrush and Ahrefs that provides rank tracking, keyword research, site audits, and backlink analysis. |
 
 ## 🚀 DevOps & Infrastructure
 
 | Repository | Description |
 | :--- | :--- |
 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | A platform offering free domains (like `.us.kg` and `.dpdns.org`) and DNS integration for personal websites and open-source projects. |
+| [usestrix/strix](https://github.com/usestrix/strix) | Open-source, multi-agent AI penetration testing tool that dynamically scans applications, validates vulnerabilities, and generates proof-of-concepts. |
 
 ## ⚙️ Backend & APIs
 
@@ -29,6 +31,9 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Open-source, local AI gateway routing requests to 268+ providers (50+ free) with automatic quota fallback and advanced token compression. |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | A persistent memory compression system for coding agents that captures session histories and injects compressed semantic context into future sessions. |
 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Baidu's state-of-the-art OCR engine capable of transcribing entire books in a single pass using Reference Sliding Window Attention (R-SWA). |
+| [openai/whisper](https://github.com/openai/whisper) | Robust, open-source speech recognition (STT) model by OpenAI trained on diverse audio for multi-lingual transcription and translation. |
+| [Anil-matcha/Open-Generative-AI](https://github.com/anil-matcha/open-generative-ai) | An unrestricted, open-source alternative to AI video platforms providing a self-hosted image and video generation studio with 500+ models (Flux, Sora, Kling). |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | A privacy-focused, open-source Google NotebookLM alternative for hosting local research, multimodal RAG, and multi-speaker AI podcast generation. |
 
 ## 🎨 Design & Productivity
 | Repository | Description |
@@ -37,6 +42,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) | An open-source ElevenLabs alternative for local voice cloning, video dubbing, dictation, and cinematic audiobook creation. |
 | [opencut-app/opencut](https://github.com/opencut-app/opencut) | A privacy-first, open-source CapCut alternative and video editor that runs entirely in-browser using WebAssembly, Web Audio, and OPFS. |
 | [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) | An open-source, browser-first text-to-CAD web application that generates parametric, editable 3D models (OpenSCAD/STL) from natural language. |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | An AI-powered job application framework built on top of Claude Code to automate evaluating postings, tailoring CVs, writing cover letters, and prepping interviews. |
 
 ## 🛠️ Developer Utilities
 
@@ -49,6 +55,9 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | AI-powered CLI coding assistant that lets you edit entire codebases and run terminal commands using natural language. |
 | [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | A collaborative, agentic AI coding harness by Xiaomi featuring auto-parallelizing git worktrees, deep research workflows, and fact-checking jurors. |
 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | A blazing-fast, Rust-based AI agent harness designed to run coding models locally with minimal memory overhead and near-zero startup latency. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | A Claude Code and agent skill that reformats AI responses to be hyper-focused, brief, structured, and ADHD-friendly. |
+| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | An open-source tool that converts technical book PDFs into structured, on-demand skills (such as for Claude Code) containing patterns, mental models, and cheatsheets. |
+| [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | A Claude skill and utility designed to identify, flag, and remove over 20 distinct patterns of AI-generated prose (slop) from any piece of writing. |
 
 ---
 
