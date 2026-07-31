@@ -14,6 +14,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | :--- | :--- |
 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | A platform offering free domains (like `.us.kg` and `.dpdns.org`) and DNS integration for personal websites and open-source projects. |
 | [usestrix/strix](https://github.com/usestrix/strix) | Open-source, multi-agent AI penetration testing tool that dynamically scans applications, validates vulnerabilities, and generates proof-of-concepts. |
+| [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) | A high-performance, 12MB Go-based browser automation bridge and multi-instance orchestrator with native stealth injection for AI agents. |
 
 ## ⚙️ Backend & APIs
 
