@@ -60,6 +60,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | A Claude Code and agent skill that reformats AI responses to be hyper-focused, brief, structured, and ADHD-friendly. |
 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | An open-source tool that converts technical book PDFs into structured, on-demand skills (such as for Claude Code) containing patterns, mental models, and cheatsheets. |
 | [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | A Claude skill and utility designed to identify, flag, and remove over 20 distinct patterns of AI-generated prose (slop) from any piece of writing. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | A unified web scraping and social media integration toolkit (CLI & MCP) that grants AI agents access to search and read 17+ platforms (Twitter, YouTube, Reddit, and more) with zero API fees. |
 
 ---
 
