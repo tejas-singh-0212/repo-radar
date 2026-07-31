@@ -34,6 +34,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | [openai/whisper](https://github.com/openai/whisper) | Robust, open-source speech recognition (STT) model by OpenAI trained on diverse audio for multi-lingual transcription and translation. |
 | [Anil-matcha/Open-Generative-AI](https://github.com/anil-matcha/open-generative-ai) | An unrestricted, open-source alternative to AI video platforms providing a self-hosted image and video generation studio with 500+ models (Flux, Sora, Kling). |
 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | A privacy-focused, open-source Google NotebookLM alternative for hosting local research, multimodal RAG, and multi-speaker AI podcast generation. |
+| [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) | A pixel-native visual search and RAG engine that bypasses traditional web parsing by indexing and reasoning over document screenshots and tiles. |
 
 ## 🎨 Design & Productivity
 | Repository | Description |
