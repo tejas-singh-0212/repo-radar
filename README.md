@@ -7,6 +7,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | :--- | :--- |
 | [reticlehq/reticle](https://github.com/reticlehq/reticle) | An instrumentation toolkit and MCP server giving AI agents real-time, runtime perception of web application state, DOM, and network logs. |
 | [every-app/open-seo](https://github.com/every-app/open-seo) | An open-source alternative to Semrush and Ahrefs that provides rank tracking, keyword research, site audits, and backlink analysis. |
+| [dioxuslabs/dioxus](https://github.com/dioxuslabs/dioxus) | A highly portable, full-stack Rust framework inspired by React for building beautiful web, desktop, and mobile apps from a single codebase. |
 
 ## 🚀 DevOps & Infrastructure
 
