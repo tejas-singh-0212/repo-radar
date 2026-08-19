@@ -21,6 +21,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 | Repository | Description |
 | :--- | :--- |
 | [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) | A massive, collaborative index of free public APIs categorized by topic, auth requirements, and CORS capabilities. |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | The ultimate collective list of free public APIs for developers, neatly organized by categories such as News, Sports, Weather, and Music. |
 
 ## 🧠 AI & Data Science
 
