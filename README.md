@@ -13,6 +13,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 
 | Repository | Description |
 | :--- | :--- |
+| [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) | A lightweight, open-source headless browser engine written in Rust for web scraping and AI agents that runs real JS via V8 without Chromium. |
 | [cloudflare/computer](https://github.com/cloudflare/computer) | Cloudflare's agent runtime that orchestrates isolates and containers, providing AI agents with dynamic virtual filesystems and sandboxed environments. |
 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | A platform offering free domains (like `.us.kg` and `.dpdns.org`) and DNS integration for personal websites and open-source projects. |
 | [usestrix/strix](https://github.com/usestrix/strix) | Open-source, multi-agent AI penetration testing tool that dynamically scans applications, validates vulnerabilities, and generates proof-of-concepts. |
