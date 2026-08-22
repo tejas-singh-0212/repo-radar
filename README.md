@@ -29,6 +29,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 
 | Repository | Description |
 | :--- | :--- |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | A highly efficient context optimization layer for LLM applications that compresses tool outputs, source code, logs, and RAG data before hitting the model. |
 | [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) | Production-ready SDK toolkit to run AI models locally and on-device (iOS, Android, Web, React Native, Flutter). |
 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Local-first code intelligence graph (MCP/CLI) that builds a persistent structural map of your codebase to drastically reduce AI coding tool token usage. |
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A configured `CLAUDE.md` and cursor rules template derived from Andrej Karpathy's findings to guide AI coding tools toward simpler, surgical solutions. |
