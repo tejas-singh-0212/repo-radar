@@ -45,6 +45,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 ## 🎨 Design & Productivity
 | Repository | Description |
 |:---| :--- |
+| [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) | A Codex skill that turns any copy or topic into a one-minute stickman video package — English VO, six-scene director storyboard, and ready-to-run Gemini Omni Flash prompts. |
 | [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A custom patch and configuration for GIMP that mimics Adobe Photoshop's layout, keyboard shortcuts, and interface. |
 | [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) | An open-source ElevenLabs alternative for local voice cloning, video dubbing, dictation, and cinematic audiobook creation. |
 | [opencut-app/opencut](https://github.com/opencut-app/opencut) | A privacy-first, open-source CapCut alternative and video editor that runs entirely in-browser using WebAssembly, Web Audio, and OPFS. |
