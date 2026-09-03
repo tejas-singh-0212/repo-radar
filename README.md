@@ -55,6 +55,7 @@ A minimalist, tabular index of exceptionally useful GitHub repositories.
 
 | Repository | Description |
 | :--- | :--- |
+| [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | Local-first MCP server giving AI coding agents web search, fetch, crawl, extract, and research with no API keys, no cloud, and $0 per query. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | Free, open-source AI coding agent with a terminal TUI/Desktop app supporting 75+ LLM providers, git snapshots, and compiler feedback loops. |
 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Lightweight proxy server to run Anthropic's Claude Code CLI using free API providers (NVIDIA NIM, OpenRouter) or local LLMs. |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | An AI agent/MCP skill that forces coding models to write ultra-minimal, YAGNI-focused code and audit repositories for bloat. |
